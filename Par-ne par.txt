@@ -1,0 +1,11 @@
+Par-ne par igra sa kompjuterom
+
+U prvom delu koda pomocu skenera stupamo u kontakt sa igracem i trazimo od njega da izabere stranu (O)dds or (E)vens
+
+U zavisnosti od odabira prikazujemo mu graficki sta je igrac izabrao.
+
+Zatim trazimo koliko "Prstiju" odnosno koji broj zeli da unese.od 1-10
+
+Generisemo random vrednost kompjutera i prikazujemo vrednosti igraca i kompjutera odnosno koji su brojevi izabrani kao i njihov zbir odnosno sumu.
+
+Ukoliko je zbir paran ili ne paran i poklapa se sa unosom igraca,igrac je pobednik u suprotnom kompjuter je pobedio.
